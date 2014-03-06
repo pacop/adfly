@@ -1,0 +1,11 @@
+# yard generated
+doc
+.yardoc
+
+# bundler
+.bundle
+
+# jeweler generated
+pkg
+
+Gemfile.lock
