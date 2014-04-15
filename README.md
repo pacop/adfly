@@ -2,6 +2,8 @@
 
 Unofficial API Wrapper for adf.ly
 
+[![Build Status](https://travis-ci.org/pacop/adfly.svg?branch=master)](https://travis-ci.org/pacop/adfly)
+
 ## Installation
 
 To use this rubygem:
